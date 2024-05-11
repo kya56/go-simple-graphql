@@ -1,0 +1,4 @@
+.idea
+.vscode
+**/generated/generated.go
+**/model/models_gen.go
